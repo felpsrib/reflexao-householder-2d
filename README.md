@@ -86,6 +86,7 @@ Trabalho desenvolvido pela equipe:
 * **Felipi Ribeiro dos Santos**
 * **Francisco Rian Maia Almeida**
 * **José Natanael Monteiro Gomes**
+* **Pedro Gabriel Quadros de Jesus**
 
 🎓 **Orientador:** Prof. Anderson Feitoza
 
